@@ -1,0 +1,4 @@
+/game2048
+*.o
+plot_tests
+.DS_Store
